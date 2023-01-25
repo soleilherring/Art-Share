@@ -1,4 +1,4 @@
-# Art-Share
+# Art-Share-Frontend
 
 Learning Goals
 Mobile development
